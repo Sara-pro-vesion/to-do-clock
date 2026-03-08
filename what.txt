@@ -1,0 +1,11 @@
+
+FUNCTIONALITIES :
+1 =  a pomodoro clock (can be ajusted (25-5/50-10))
+2 = a to do check list
+3 = to do must be verified if it is specified
+4 = quran player ,(choosen readers /surats)
+5 = quran verses inside the website(maybe random ayats pop-ups inside the browser)
+6 = dua of studing (before/after)
+7 = background mood changing .
+
+design done on figma
